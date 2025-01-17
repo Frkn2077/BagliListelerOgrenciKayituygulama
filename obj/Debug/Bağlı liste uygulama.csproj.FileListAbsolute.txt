@@ -1,0 +1,20 @@
+C:\Users\Furkan\Desktop\Bağlı liste uygulama\bin\Debug\Bağlı liste uygulama.exe.config
+C:\Users\Furkan\Desktop\Bağlı liste uygulama\bin\Debug\Bağlı liste uygulama.exe
+C:\Users\Furkan\Desktop\Bağlı liste uygulama\bin\Debug\Bağlı liste uygulama.pdb
+C:\Users\Furkan\Desktop\Bağlı liste uygulama\obj\Debug\Bağlı liste uygulama.csproj.AssemblyReference.cache
+C:\Users\Furkan\Desktop\Bağlı liste uygulama\obj\Debug\Bağlı_liste_uygulama.Form1.resources
+C:\Users\Furkan\Desktop\Bağlı liste uygulama\obj\Debug\Bağlı_liste_uygulama.Properties.Resources.resources
+C:\Users\Furkan\Desktop\Bağlı liste uygulama\obj\Debug\Bağlı liste uygulama.csproj.GenerateResource.cache
+C:\Users\Furkan\Desktop\Bağlı liste uygulama\obj\Debug\Bağlı liste uygulama.csproj.CoreCompileInputs.cache
+C:\Users\Furkan\Desktop\Bağlı liste uygulama\obj\Debug\Bağlı liste uygulama.exe
+C:\Users\Furkan\Desktop\Bağlı liste uygulama\obj\Debug\Bağlı liste uygulama.pdb
+C:\Users\Furkan\Desktop\Bağlı liste uygulama\Bağlı liste uygulama\bin\Debug\Bağlı liste uygulama.exe.config
+C:\Users\Furkan\Desktop\Bağlı liste uygulama\Bağlı liste uygulama\bin\Debug\Bağlı liste uygulama.exe
+C:\Users\Furkan\Desktop\Bağlı liste uygulama\Bağlı liste uygulama\bin\Debug\Bağlı liste uygulama.pdb
+C:\Users\Furkan\Desktop\Bağlı liste uygulama\Bağlı liste uygulama\obj\Debug\Bağlı liste uygulama.csproj.AssemblyReference.cache
+C:\Users\Furkan\Desktop\Bağlı liste uygulama\Bağlı liste uygulama\obj\Debug\Bağlı_liste_uygulama.Form1.resources
+C:\Users\Furkan\Desktop\Bağlı liste uygulama\Bağlı liste uygulama\obj\Debug\Bağlı_liste_uygulama.Properties.Resources.resources
+C:\Users\Furkan\Desktop\Bağlı liste uygulama\Bağlı liste uygulama\obj\Debug\Bağlı liste uygulama.csproj.GenerateResource.cache
+C:\Users\Furkan\Desktop\Bağlı liste uygulama\Bağlı liste uygulama\obj\Debug\Bağlı liste uygulama.csproj.CoreCompileInputs.cache
+C:\Users\Furkan\Desktop\Bağlı liste uygulama\Bağlı liste uygulama\obj\Debug\Bağlı liste uygulama.exe
+C:\Users\Furkan\Desktop\Bağlı liste uygulama\Bağlı liste uygulama\obj\Debug\Bağlı liste uygulama.pdb
